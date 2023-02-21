@@ -150,3 +150,17 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+.DS_Store
+SNES_Roster_Tool/future/SNES Roster Tool_Qt5.py
+SNES_Roster_Tool/future/SNES Roster Tool.ui
+SNES_Roster_Tool/future/RosGui_Qt5.py
+SNES_Roster_Tool/future/icons/nhl94.png
+SNES_Roster_Tool/future/icons/import.png
+SNES_Roster_Tool/future/icons/game_icon.png
+SNES_Roster_Tool/future/icons/export_csv.png
+SNES_Roster_Tool/future/icons/exit.png
+SNES_Roster_Tool/old/RosGui.py
+SNES_Roster_Tool/old/Roster Extractor.py
+SNES_Roster_Tool/old/Roster_Tool.qrc
+SNES_Roster_Tool/old/Roster_Tool_rc.py
+SNES_Roster_Tool/old/rosToolUI.py
